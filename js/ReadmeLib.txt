@@ -6,17 +6,8 @@ To ensure transparency and allow for independent verification, the exact version
 
 ---
 
-### 1. xrpl-latest-min.js
 
-*   **Version:** `4.3.0`
-*   **Purpose:** The official library for interacting with the XRP Ledger.
-*   **Source of Truth (NPM):** [https://www.npmjs.com/package/xrpl/v/4.3.0](https://www.npmjs.com/package/xrpl/v/4.3.0)
-*   **Direct Download Link:** [https://cdn.jsdelivr.net/npm/xrpl@4.3.0/build/xrpl-latest-min.js](https://cdn.jsdelivr.net/npm/xrpl@4.3.0/build/xrpl-latest-min.js)
-*   **SHA-256 Hash:** `[d4814cdd1fe22421169c51dbdf2dadc84f48d0fc0dba96bb49e1e1d10158c642]`
-
----
-
-### 2. jsQR.js
+### 1. jsQR.js
 
 *   **Version:** `1.4.0`
 *   **Purpose:** QR code decoding library used for scanning.
@@ -26,7 +17,7 @@ To ensure transparency and allow for independent verification, the exact version
 
 ---
 
-### 3. qrcode-generator
+### 2. qrcode-generator
 
 *   **Version:** `1.4.4`
 *   **Purpose:** QR code generation library used for the "Regenerate QR" feature.
