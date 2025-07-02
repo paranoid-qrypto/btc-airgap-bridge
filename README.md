@@ -120,4 +120,5 @@ If you find a bug or have a feature request, please open an issue on the [GitHub
 ## Developed and provided by Paranoid Qrypto
 
 [https://paranoidqrypto.com/](https://paranoidqrypto.com)
-2025
+© 2025 Paranoid Qrypto
+
